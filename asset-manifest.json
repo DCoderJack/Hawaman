@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Hawaman/static/css/main.33a10fb2.css",
+    "main.js": "/Hawaman/static/js/main.5b323453.js",
+    "static/js/787.92339d0d.chunk.js": "/Hawaman/static/js/787.92339d0d.chunk.js",
+    "index.html": "/Hawaman/index.html",
+    "main.33a10fb2.css.map": "/Hawaman/static/css/main.33a10fb2.css.map",
+    "main.5b323453.js.map": "/Hawaman/static/js/main.5b323453.js.map",
+    "787.92339d0d.chunk.js.map": "/Hawaman/static/js/787.92339d0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33a10fb2.css",
+    "static/js/main.5b323453.js"
+  ]
+}
